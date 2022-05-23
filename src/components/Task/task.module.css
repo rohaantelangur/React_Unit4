@@ -1,0 +1,10 @@
+.task {
+  /* Sample  */
+  margin: auto;
+  padding: 10px;
+  margin-left: -11%;
+  /* width: 30%; */
+  display: flex;
+  justify-content: space-between;
+  background-color: bisque;
+}

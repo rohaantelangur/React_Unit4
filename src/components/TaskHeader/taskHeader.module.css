@@ -1,0 +1,10 @@
+.taskHeader {
+  /* Sample */
+  margin:  auto;
+  text-align: center;
+  height: 150px;
+  color: white;
+  padding-top: 10px;
+  width: 30%;
+  background-color: teal;
+}
